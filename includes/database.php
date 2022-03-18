@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', 'Senara123*', '');
+$db = mysqli_connect('localhost', 'root', 'Senara123*', 'appsalon');
 
 
 if (!$db) {
